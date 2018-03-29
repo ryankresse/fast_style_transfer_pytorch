@@ -10,14 +10,14 @@ You can check out the code in train.ipynb. The important classes are:
 
 Here's an example of the images I produced:
 
-Original Image:
-![Ravenel Bridge](https://raw.githubusercontent.com/ryankresse/fast_style_transfer_pytorch/master/data/bridge)
+#### Original Image:
+![Ravenel Bridge](https://raw.githubusercontent.com/ryankresse/fast_style_transfer_pytorch/master/data/bridge.jpg)
 
 
-Style Image:
+#### Style Image:
 ![The Peanuts](https://raw.githubusercontent.com/ryankresse/fast_style_transfer_pytorch/master/data/charlie_brown.jpg)
 
 
-Transformed Image:
+#### Transformed Image:
 ![Transformed Ravenel Bridge](https://raw.githubusercontent.com/ryankresse/fast_style_transfer_pytorch/master/output_img/bridge_peanuts.jpg)
 
