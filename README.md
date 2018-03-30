@@ -5,7 +5,7 @@ My implementation was heavily inspired by by Fastai's [Deep Learning Course](htt
 
 You can check out the code in train.ipynb. The important classes are:
 - FeatureExtractor: a wrapper for vgg-16 that extracts the activations of intermediate layers. This is our 'loss network' referred to in the paper above.
-- FastTransNet: The residual convolutional network that is trained minimize the weighted sum of the feature reconstruction loss and the style reconstruction loss
+- FastTransNet: The residual convolutional network that is trained to minimize the weighted sum of the feature reconstruction loss and the style reconstruction loss
 - WrapperModel: a wrapper for the classes above
 
 Here's an example of the images I produced:
